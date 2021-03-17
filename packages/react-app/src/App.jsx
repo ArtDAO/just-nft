@@ -339,7 +339,7 @@ function App(props) {
     }
 
     galleryList.push(
-      <Card style={{width:200}} key={loadedAssets[a].name}
+      <Card style={{width:300}} key={loadedAssets[a].name}
         actions={cardActions}
         title={(
           <div>
@@ -393,9 +393,9 @@ function App(props) {
                 and give you a form to interact with it locally
             */}
 
-            <div style={{ maxWidth:820, margin: "auto", marginTop:32, paddingBottom:256 }}>
+            <div style={{ margin: "auto", marginTop:32, paddingBottom:256 }}>
               <StackGrid
-                columnWidth={200}
+                columnWidth={300}
                 gutterWidth={16}
                 gutterHeight={16}
               >

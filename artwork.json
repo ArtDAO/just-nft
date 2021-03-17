@@ -1,342 +1,146 @@
 [
   {
-    "name": "Buffalo",
-    "description": "It's actually a bison?",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=buffalo",
-    "image": "https://austingriffith.com/images/paintings/buffalo.jpg",
+    "name": "Barcelona",
+    "description": "Obra original realizada con técnica mixta sobre madera 80x100 sobre la gente y la vida de la ciudad de Barcelona.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmUxKkPJD2vYaj2csekZ3CtNxP1rpukwcPdJDqCqk2sdQd",
     "attributes": [
       {
-        "trait_type": "BackgroundColor",
-        "value": "green"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "googly"
-      },
-      {
-        "trait_type": "Stamina",
-        "value": 42
+        "trait_type": "collection",
+        "value": "El futuro ya no es lo que era"
       }
     ]
   },
   {
-    "name": "Zebra",
-    "description": "What is it so worried about?",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=zebra",
-    "image": "https://austingriffith.com/images/paintings/zebra.jpg",
+    "name": "Todo está dentro de uno mismo / Everything is inside yourself",
+    "description": "Obra original realizada con técnica mixta sobre madera 100x100 sobre el pensamiento individual y como influye en el colectivo de la sociedad.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmS2t8wHLzjvW2uFfKsi63pHEbeeEFaqY2qYae54aRg68N",
     "attributes": [
       {
-        "trait_type": "BackgroundColor",
-        "value": "blue"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "googly"
-      },
-      {
-        "trait_type": "Stamina",
-        "value": 38
+        "trait_type": "collection",
+        "value": "El futuro ya no es lo que era"
       }
     ]
   },
   {
-    "name": "Rhino",
-    "description": "What a horn!",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=rhino",
-    "image": "https://austingriffith.com/images/paintings/rhino.jpg",
+    "name": "Experiencias / Experiences",
+    "description": "Obra original realizada con técnica mixta sobre cartón 20x20 sobre el contacto y las relaciones humanas del individuo.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmT1rBxYP9TFrC4idr57dzyVzr3a1WSBwEHwhbv5eLiE9Y",
     "attributes": [
       {
-        "trait_type": "BackgroundColor",
-        "value": "pink"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "googly"
-      },
-      {
-        "trait_type": "Stamina",
-        "value": 22
+        "trait_type": "collection",
+        "value": "El futuro ya no es lo que era"
       }
     ]
   },
   {
-    "name": "Fish",
-    "description": "Is that an underbyte?",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=fish",
-    "image": "https://austingriffith.com/images/paintings/fish.jpg",
+    "name": "Un poco de imposible o me ahogo / A little impossible or I drown",
+    "description": "Obra original realizada con técnica mixta y digital sobre papel 70x50. Y como sobrevivir al caos.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmPEmzgbtR13NNhQYjjFp7b369P2MgC7RZrKWaT6s1Ufhn",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "blue"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 15
-       }
+      {
+        "trait_type": "collection",
+        "value": "No haberte conocido seria terrible…"
+      }
     ]
   },
   {
-    "name": "Flamingo",
-    "description": "So delicate.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=flamingo",
-    "image": "https://austingriffith.com/images/paintings/flamingo.jpg",
+    "name": "No somos nada pero estas tú / We are nothing, but you are here",
+    "description": "Obra original realizada con técnica mixta y digital sobre papel 70x50. Sobre las relaciones humanas y la diferencia sobre el interior y el exterior",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmavijYMFt1eLME6QYoE137N4TzxyCM4E6koqRf6Af6NUV",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "black"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 6
-       }
+      {
+        "trait_type": "collection",
+        "value": "No haberte conocido seria terrible…"
+      }
     ]
   },
   {
-    "name": "Godzilla",
-    "description": "Raaaar!",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=godzilla",
-    "image": "https://austingriffith.com/images/paintings/godzilla.jpg",
+    "name": "Amor tierno, amor sucio, amor casa / Tender love, dirty love, home love",
+    "description": "Obra original realizada con técnica mixta y digital sobre papel 70x50. El amor en sus múltiples facetas.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmQApNZD5PUaX6sbr4gGK5MsCUk1aMs2Hm9fFguYabgCUM",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 99
-       }
+      {
+        "trait_type": "collection",
+        "value": "No haberte conocido seria terrible…"
+      }
     ]
   },
   {
-    "name": "Antelope",
-    "description": "Speed goat.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=antelope",
-    "image": "https://austingriffith.com/images/paintings/antelope.jpg",
+    "name": "Conectados / Connected",
+    "description": "Obra original realizada con técnica mixta y digital sobre papel 70x50. Sobre la conexión entre dos seres aunque estén lejos físicamente.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmZzqGYjnNbnwQKdmRLw99CYwth8hcgP1RwZVZi2KF4fA6",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "purple"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 86
-       }
+      {
+        "trait_type": "collection",
+        "value": "No haberte conocido seria terrible…"
+      }
     ]
   },
   {
-    "name": "Bear",
-    "description": "Snack time!",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=bear",
-    "image": "https://austingriffith.com/images/paintings/bear.jpg",
+    "name": "Tus monstruos / Your monsters",
+    "description": "Obra original realizada con técnica mixta sobre cartón 20x20 sobre los monstruos y fantasías que cada uno tenemos en la cabeza.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmdJeWMXt3W579Vft4KCcrh1AXwCdn9HqFSjLhB945BBjg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "green"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 47
-       }
+      {
+        "trait_type": "collection",
+        "value": "El futuro ya no es lo que era"
+      }
     ]
   },
   {
-    "name": "Elephant",
-    "description": "Junk in the trunk!",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=elephant",
-    "image": "https://austingriffith.com/images/paintings/elephant.jpg",
+    "name": "Abrazo / Hug",
+    "description": "Obra original realizada con técnica mixta sobre cartón 20x15. Para que vuelva el contacto y el abrazo aunque sea un abrazo furtivo.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/Qmb2gDURkU2xCHprBXPAbjdkZVrhXrEj9RU9aaxiDNfTDW",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 38
-       }
+      {
+        "trait_type": "collection",
+        "value": "El futuro ya no es lo que era"
+      }
     ]
   },
   {
-    "name": "Hippo",
-    "description": "Unsure.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=hippo",
-    "image": "https://austingriffith.com/images/paintings/hippo.jpg",
+    "name": "Madre / Mother",
+    "description": "Obra original realizada con técnica mixta sobre cartón 20x15. La relación incondicional entre una madre y su hija siempre conectadas incluso cuando la madre ya no esté.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmUWVdqnx9QznKFL65EwpL8MJXmyHTGVuWyHavJgQMhGot",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "green"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 39
-       }
+      {
+        "trait_type": "collection",
+        "value": "El futuro ya no es lo que era"
+      }
     ]
   },
   {
-    "name": "Lobster",
-    "description": "Rock lobster!",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=lobster",
-    "image": "https://austingriffith.com/images/paintings/lobster.jpg",
+    "name": "Allí donde los pensamientos se encuentran / Where thoughts meet",
+    "description": "Obra original realizada con técnica mixta y digital sobre papel 70x50. Sobre la conexión entre dos seres aunque estén lejos físicamente sus pensamientos siguen unidos.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmdRTwmemnwLC3D9jAz9gqTqJphqMe3RK6gTLuKPCv6zU6",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "grey"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 12
-       }
+      {
+        "trait_type": "collection",
+        "value": "No haberte conocido seria terrible…"
+      }
     ]
   },
   {
-    "name": "Mountain Goat",
-    "description": "Goatse!",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=mountaingoat",
-    "image": "https://austingriffith.com/images/paintings/mountaingoat.jpg",
+    "name": "En mi cabeza / In my head",
+    "description": "Obra original realizada con técnica mixta sobre madera 80x100 sobre el pensamiento individual y como influye en el colectivo de la sociedad.",
+    "external_url": "http://cadafalch.net/en/",
+    "image": "https://ipfs.io/ipfs/QmSjxqEvqYPVDsW1s72AUXtTnsFpy7GirjDMwWifWcWNed",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "blue"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 70
-       }
-    ]
-  },
-  {
-    "name": "Octopus",
-    "description": "Dope 'stach.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=octopus",
-    "image": "https://austingriffith.com/images/paintings/octopus.jpg",
-    "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "purple"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 41
-       }
-    ]
-  },
-  {
-    "name": "Ox",
-    "description": "The ringer.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=ox",
-    "image": "https://austingriffith.com/images/paintings/ox.jpg",
-    "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "blue"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 59
-       }
-    ]
-  },
-  {
-    "name": "Penguin",
-    "description": "It's cold out here.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=penguin",
-    "image": "https://austingriffith.com/images/paintings/penguin.jpg",
-    "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 23
-       }
-    ]
-  },
-  {
-    "name": "Walrus",
-    "description": "Seems nice.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=walrus",
-    "image": "https://austingriffith.com/images/paintings/walrus.jpg",
-    "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 23
-       }
-    ]
-  },
-  {
-    "name": "Killer Whale",
-    "description": "Killers.",
-    "external_url": "https://austingriffith.com/portfolio/paintings/?id=killerwhale",
-    "image": "https://austingriffith.com/images/paintings/killerwhale.jpg",
-    "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "green"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 87
-       }
+      {
+        "trait_type": "collection",
+        "value": "El futuro ya no es lo que era"
+      }
     ]
   }
 ]
